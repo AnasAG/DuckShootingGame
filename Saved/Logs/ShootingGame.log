@@ -1340,3 +1340,6 @@ The following settings have been applied:
 [2024.09.06-19.28.17:459][755]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
 [2024.09.06-19.28.17:460][755]RenderDocPlugin: plugin has been unloaded.
 [2024.09.06-19.28.17:477][755]LogPakFile: Destroying PakPlatformFile
+[2024.09.06-19.28.17:665][755]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.09.06-19.28.17:707][755]LogExit: Exiting.
+[2024.09.06-19.28.17:764][755]Log file closed, 09/06/24 22:28:17
